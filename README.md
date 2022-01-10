@@ -3,6 +3,10 @@
 
 This repository unites extra information about MCCD - **M**ethodology for **C**reating **C**onversational **D**atasets.
 
+## Publication and Methodology Description
+
+Waiting publication.
+
 ## Tool: Miner-XenForo
 
 
@@ -43,7 +47,3 @@ Two datasets were created using MCCD and Miner-XenForo and are ready to be used.
 |forum.outerspace.com.br.zip|4.5 gb|Unprocessed dataset.|
 
 [Access here.](http://www.lrc.ic.unicamp.br/~ferraroni/datasets/outerspace/)
-
-## Citation
-
-Waiting for publication.
